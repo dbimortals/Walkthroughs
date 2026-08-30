@@ -2,7 +2,7 @@
 
 ## URL
 
-[HackMyVM Challenge 003](https://hackmyvm.eu/challenges/003)
+https://hackmyvm.eu/challenges/challenge.php?c=003
 
 ## Concept
 
