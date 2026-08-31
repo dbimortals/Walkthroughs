@@ -53,4 +53,3 @@ After all instructions are processed, the brightness of every light is added tog
 - `day6-1.cpp` — Part 1 solution
 - `day6-2.cpp` — Part 2 solution
 - `q-1.txt` — Puzzle input
-- `README.md` — Problem and solution description
