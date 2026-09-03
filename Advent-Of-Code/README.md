@@ -10,12 +10,6 @@ Advent of Code is an annual set of programming puzzles released every December. 
 |------|----------|
 | [2015](./2015) | 🚧 In Progress |
 
-## 🧩 2015
-
-| Day | Part 1 | Part 2 | Language |
-|-----|--------|--------|----------|
-| [Day 1](./2015/day-1) | ✅ | ✅ | C++ |
-
 ## 🛠️ Languages & Tools
 
 - C++
